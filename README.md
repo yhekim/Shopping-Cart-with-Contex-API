@@ -2,4 +2,4 @@
 
 -An example of how Redux-Lifting State Up Events in React.
 
-![gif](https://raw.githubusercontent.com/yhekim/Lifting_State_Up/main/lifting%20state%20up.gif)
+![gif](https://raw.githubusercontent.com/yhekim/Shopping-Cart-with-Contex-API/main/contex-api.gif)
